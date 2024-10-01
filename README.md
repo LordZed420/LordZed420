@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My Name is Kellen and Im currently a full time student in computer science after finishing my time in the army. 
+
+currently I am focusing on learning about Java and dabbling in Python.
+
+I am interested in Video game development, but solving problems through coding is facsinating to me and I would love to work on more problems that help people.
+
 <!--
 **LordZed420/LordZed420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
